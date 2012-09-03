@@ -183,9 +183,7 @@ function deleteDocument(docID){
   } else {
     return false;
   }
-
   openLocal();
-
 }
 function loadDocument(docID){
   var docInfo   = window.localStorage.getItem(docID),

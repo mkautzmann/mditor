@@ -88,6 +88,11 @@ body{
   border:none;
   background:white;
   font:500 1em "Courier New", Courier, monospace;
+  -webkit-overflow-scrolling: touch;
+  -moz-overflow-scrolling: touch;
+  -ms-overflow-scrolling: touch;
+  -o-overflow-scrolling: touch;
+  overflow-scrolling: touch;
 }
 .markdown:focus{
   overflow:visible;
@@ -108,6 +113,11 @@ body{
   -ms-transition:top 1s ease;
   -o-transition:top 1s ease;
   transition:top 1s ease;
+  -webkit-overflow-scrolling: touch;
+  -moz-overflow-scrolling: touch;
+  -ms-overflow-scrolling: touch;
+  -o-overflow-scrolling: touch;
+  overflow-scrolling: touch;
   z-index:3;
 }
 .preview .closeit{
