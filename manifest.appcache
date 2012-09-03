@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# version 0.2
+# version 0.2.1
 
 CACHE:
 # markup
@@ -11,6 +11,12 @@ scripts/marked.js
 
 # stylesheet
 css/styles.css
+
+# images
+images/apple-touch-icon-114-precomposed.png
+images/apple-touch-icon-57-precomposed.png
+images/apple-touch-icon-72-precomposed.png
+images/favicon.ico
 
 # fonts
 css/fontello.eot
