@@ -1,5 +1,7 @@
 #mditor
 
+![mditor logo](https://raw.github.com/danielfilho/mditor/master/images/apple-touch-icon-144-precomposed.png)
+
 mditor is a simple and straightforward online markdown editor, focusing on tablet computers.
 
 Its focus is to make easy to create and edit information based on [markdown](http://en.wikipedia.org/wiki/Markdown) templating.
