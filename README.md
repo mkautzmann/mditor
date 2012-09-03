@@ -21,5 +21,6 @@ For the markdown preview, it uses [`marked`](https://github.com/chjj/marked), a 
 * Amazing features to come (check the "Issues" for complete backlog)
 
 
-- Logo by [Evandro Eisinger](https://github.com/evandroeisinger)
-- [MIT License](http://daniel.mit-license.org/)
+Logo by [Evandro Eisinger](https://github.com/evandroeisinger)
+
+[MIT License](http://daniel.mit-license.org/)
